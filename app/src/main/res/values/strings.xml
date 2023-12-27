@@ -4,4 +4,5 @@
     <string name="btn_stop_text">Stop</string>
     <string name="btn_start_text">Start</string>
     <string name="initial_timer_values">00:00:00</string>
+    <string name="btn_start_resume">Resume</string>
 </resources>
